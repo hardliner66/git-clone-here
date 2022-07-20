@@ -9,3 +9,4 @@ Allows even easier cloning for windows users
 
 ![gfdgfsf_1](https://user-images.githubusercontent.com/80927085/180042732-e3075a08-a1d2-46c0-b3f1-4d206302f702.gif)
 
+leave a star if you like it:)

@@ -3,7 +3,7 @@
 Allows even easier cloning for windows users
 
 - adds Git Clone Here to context menu
-- gets repo link from clipboard
+- auto open and execute git clone with repo from clipboard
 
 ## Open the .reg file and it's ready to use!
 
